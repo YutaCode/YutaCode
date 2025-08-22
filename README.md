@@ -15,7 +15,7 @@ While my academic research was in materials mechanics, I’ve developed a strong
 
 ## 📂 Featured Project
 - [react-playground](https://github.com/YutaCode/react-playground) — my practice repo for React basics
-- [nextjs-tutorial](https://github.com/YutaCode/nextjs-tutorial) - Repository for the official Next.js tutorial
+- [nextjs-tutorial](https://github.com/YutaCode/nextjs-tutorial) — Repository for the official Next.js tutorial
 
 ---
 
@@ -36,4 +36,4 @@ While my academic research was in materials mechanics, I’ve developed a strong
 
 ## 📂 ピックアッププロジェクト
 - [react-playground](https://github.com/YutaCode/react-playground) — Reactの基礎を学んでいる練習用リポジトリ
-- [nextjs-tutorial](https://github.com/YutaCode/nextjs-tutorial) - Next.jsの公式チュートリアル用リポジトリ
+- [nextjs-tutorial](https://github.com/YutaCode/nextjs-tutorial) — Next.jsの公式チュートリアル用リポジトリ
