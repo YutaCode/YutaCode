@@ -18,6 +18,8 @@ I also have experience learning **React and Next.js**, which I hope to use when 
 
 ## 📂 Learning Projects
 
+- [atcoder-study](https://github.com/YutaCode/atcoder-study) — Latest accepted ABC solutions, organized by contest and problem
+
 - [react-playground](https://github.com/YutaCode/react-playground) — React fundamentals through small projects
 - [nextjs-tutorial](https://github.com/YutaCode/nextjs-tutorial) — Learning the Next.js App Router through the official course
 
@@ -42,6 +44,8 @@ I also have experience learning **React and Next.js**, which I hope to use when 
 - 作ったものを自分の言葉で説明し、実装・改善できる力を身につける
 
 ## 📂 学習プロジェクト
+
+- [atcoder-study](https://github.com/YutaCode/atcoder-study) — ABCの最新AC提出コードを、コンテスト・問題ごとに整理
 
 - [react-playground](https://github.com/YutaCode/react-playground) — 小さな実装を通じたReact基礎の学習
 - [nextjs-tutorial](https://github.com/YutaCode/nextjs-tutorial) — Next.js公式App Routerコースの学習記録
