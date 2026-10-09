@@ -1,39 +1,47 @@
 # 👋 Hi, I'm Yuta
 
-A recent graduate in **Mechanical Engineering**, now aspiring to become a **Software Engineer**.  
-My academic background is in materials mechanics, but I’ve developed a strong passion for **AI** and **Web Development**, and I’m actively building skills to transition into this field.  
+I hold a master’s degree in Mechanical Engineering, with a research background in mechanics of materials. I'm now working toward becoming an **AI Engineer**, combining my engineering background with hands-on software development.
 
 ## 🌱 Currently Learning
-- **React / Next.js** — strengthening frontend fundamentals through hands-on projects  
-- **Git & GitHub** — version control and project management for team-ready workflows  
-- **AI & Data Analysis** — learning the basics to apply in future real-world projects  
+
+- **Python & PyTorch** — implementing neural networks and understanding Transformer internals
+- **Hugging Face** — working with pretrained models, text classification, and sentence embeddings
+- **Git & GitHub** — tracking code, learning progress, and development history
+
+I also have experience learning **React and Next.js**, which I hope to use when building AI applications.
 
 ## 🚀 Goals
-- Build a solid foundation in modern web development  
-- Create and publish projects that showcase growth and skills  
-- Contribute to open-source and explore practical applications of AI  
 
-## 📂 Featured Projects
-- [react-playground](https://github.com/YutaCode/react-playground) — Exploring React fundamentals with practical mini-projects  
-- [nextjs-tutorial](https://github.com/YutaCode/nextjs-tutorial) — Following the official Next.js App Router course with added notes  
+- Build practical AI applications and develop the skills to evaluate their behavior
+- Turn learning into projects with clear documentation and reproducible results
+- Strengthen my ability to explain, implement, and improve what I build
+
+## 📂 Learning Projects
+
+- [react-playground](https://github.com/YutaCode/react-playground) — React fundamentals through small projects
+- [nextjs-tutorial](https://github.com/YutaCode/nextjs-tutorial) — Learning the Next.js App Router through the official course
 
 ---
 
-# 👋 こんにちは、Yutaです!
+# 👋 こんにちは、Yutaです！
 
-機械工学を専攻して大学院を修了し、現在は **ソフトウェアエンジニア** を目指して学習中です。  
-研究では材料力学を扱っていましたが、現在は **AI** や **Web開発** に強い関心を持ち、日々スキルを磨いています。  
+機械工学を専攻して大学院を修了し、研究では材料力学を扱っていました。現在は **AIエンジニア** を目指し、仕組みを理解しながら、自分の手で実装することを大切にしています。
 
 ## 🌱 学習中のこと
-- **React / Next.js** — フロントエンド基礎を実践的に学習中  
-- **Git & GitHub** — チーム開発を意識したバージョン管理  
-- **AI・データ分析** — 将来のプロジェクト応用を目指した基礎学習  
+
+- **Python・PyTorch** — ニューラルネットワークの実装とTransformerの内部理解
+- **Hugging Face** — 学習済みモデルによる文章分類と、文章Embeddingの学習
+- **Git・GitHub** — コードと学習記録の管理、開発履歴の蓄積
+
+これまで学んだ **React・Next.js** も、今後のAIアプリ開発につなげたいと考えています。
 
 ## 🚀 目標
-- モダンなWeb開発スキルを着実に習得する  
-- 学習成果を形にしてGitHubで公開し、成長を示す  
-- オープンソースに貢献し、AIを活用した実用的なサービスを作る  
 
-## 📂 プロジェクト紹介
-- [react-playground](https://github.com/YutaCode/react-playground) — React基礎を理解するための実践リポジトリ  
-- [nextjs-tutorial](https://github.com/YutaCode/nextjs-tutorial) — Next.js公式チュートリアルの学習記録
+- AIを使った実用的なアプリを作り、その振る舞いを評価できるようになる
+- 学習成果を、説明と再現手順を備えたプロジェクトにする
+- 作ったものを自分の言葉で説明し、実装・改善できる力を身につける
+
+## 📂 学習プロジェクト
+
+- [react-playground](https://github.com/YutaCode/react-playground) — 小さな実装を通じたReact基礎の学習
+- [nextjs-tutorial](https://github.com/YutaCode/nextjs-tutorial) — Next.js公式App Routerコースの学習記録
